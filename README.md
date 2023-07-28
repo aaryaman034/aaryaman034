@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryaman034&label=Profile%20views&color=0e75b6&style=flat" alt="aaryaman034" /> </p>
 
-- 🔭 I’m currently working on **CollegeClubWebsite**
+- 🔭 I’m currently working on **PlantMonitoring.Website**
 
-- 🌱 I’m currently learning **EJS**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Advance Java, CSS, HTML, SQL, DBMS, IOT**
+- 💬 Ask me about **Advance Java, CSS, HTML, SQL, DBMS, IOT, JavaScript**
 
 - 📫 How to reach me **sharmaaaryaman2002@gmail.com**
 
